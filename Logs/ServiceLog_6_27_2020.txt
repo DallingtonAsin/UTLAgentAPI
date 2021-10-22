@@ -1,0 +1,6 @@
+The exception is System.FormatException: Input string was not in a correct format.
+   at TransAPI.BusinessLogic.BLogic.transact(String action, String account_no, Double amount) in C:\Users\Dallington The Venom\source\repos\TransAPI\BusinessLogic\BLogic.cs:line 94
+   at TransAPI.Api.deposit(String acc_no, Double amt) in C:\Users\Dallington The Venom\source\repos\TransAPI\Api.asmx.cs:line 33
+The exception is System.FormatException: Input string was not in a correct format.
+   at TransAPI.BusinessLogic.BLogic.transact(String action, String account_no, Double amount) in C:\Users\Dallington The Venom\source\repos\TransAPI\BusinessLogic\BLogic.cs:line 94
+   at TransAPI.Api.deposit(String acc_no, Double amt) in C:\Users\Dallington The Venom\source\repos\TransAPI\Api.asmx.cs:line 33

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransAPI", "TransAPI.csproj", "{1830A6C1-D937-4F1F-902D-073B521ECECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1830A6C1-D937-4F1F-902D-073B521ECECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1830A6C1-D937-4F1F-902D-073B521ECECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1830A6C1-D937-4F1F-902D-073B521ECECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1830A6C1-D937-4F1F-902D-073B521ECECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F305B3C2-F69E-4B75-A75D-8FDDFEAF6E33}
+	EndGlobalSection
+EndGlobal
