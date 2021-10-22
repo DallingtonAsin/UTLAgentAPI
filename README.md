@@ -5,3 +5,10 @@ view a list of all registered customers, view customer's account balance, view a
 check if customer is registered and view list of activity logs done within the system.
 
 <b style="color=red">NOTE:</b> The API uses SQL NOT MySQL and you must ensure that it is running very well for the web portal to process and function properly.
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
